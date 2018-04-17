@@ -1,3 +1,7 @@
+## Add and remove cards
+You can add and remove card dynamically just clone the project and add and remove cards dynamically.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
